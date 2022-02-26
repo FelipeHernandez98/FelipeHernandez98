@@ -7,7 +7,7 @@
 - 👟 I'm an athlete
 
 ### Contact me:
-<a href="https://www.linkedin.com/in/andres-felipe-hernandez-caicedo-b06172220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s8vega" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andres-felipe-hernandez-caicedo-b06172220/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s8vega" height="30" width="40" /></a>
 ### Lenguagues:
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"></code>
