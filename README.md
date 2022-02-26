@@ -1,5 +1,6 @@
-### Hi Coder, I'm Felipe Hernandez👋
+## Hi Coder, I'm Felipe Hernandez👋
 
+### Passionate developer
 
 
 - 🔭 I’m currently working on MA PEÑALOSA 
