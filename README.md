@@ -20,6 +20,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></code>
 <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"></code>
+<code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/angularjs_original_logo_icon_146649.png" width="40" height="40"></code>
 
 
 
