@@ -24,6 +24,9 @@
 <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/angularjs_original_logo_icon_146649.png" width="40" height="40" title="Angular"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="40" height="40" title="SQLServer"></code>
 
+- Api REST Server
+- Socket server
+- Web Server
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHernandez98&layout=compact&theme=radical&langs_count=8)
 
