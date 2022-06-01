@@ -21,7 +21,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"></code>
 <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" title="Heroku"></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="Angular"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" width="40" height="40" title="SQLServer"></code>
 
 - Api REST Server
