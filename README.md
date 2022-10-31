@@ -3,7 +3,7 @@
 ### Passionate developer
 
 
-- 🔭 I’m currently working on MA PEÑALOSA 
+- 🔭 I’m currently working on Periferia IT
 - 📫 How to reach me: afelipehernandezdev@gmail.com
 - 👟 I'm an athlete
 
